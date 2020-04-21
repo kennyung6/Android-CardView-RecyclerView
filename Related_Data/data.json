@@ -1,70 +1,69 @@
 {
-  "popular": [
-    {
-      "image": "https://images.unsplash.com/photo-1505282722405-413748d3de7a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ffff11fbee3647471e3b9dadcd7773a4&auto=format&fit=crop&w=701&q=80",
-      "title": "accusamus beatae ad facilis cum similique qui sunt",
-      "count": 2,
-      "type": "audio"
-    },
-    {
-      "image": "https://unsplash.com/photos/9npCsdGQ4qU",
-      "title": "reprehenderit est deserunt velit ipsam",
-      "count": 4,
-      "type": "image"
-    },
-    {
-      "image": "https://i.imgur.com/a64Cp7j.jpg",
-      "title": "officia porro iure quia iusto qui ipsa ut modi",
-      "count": 6,
-      "type": "image"
-    },
-    {
-      "image": "https://i.imgur.com/5hs70Z8.jpg",
-      "title": "culpa odio esse rerum omnis",
-      "count": 8,
-      "type": "video"
-    },
-    {
-      "image": "https://i.imgur.com/5hs70Z8.jpg",
-      "name": "culpa odio esse rerum omnis",
-      "count": 6,
-      "type": "image"
-    },
-    {
-      "image": "https://i.imgur.com/a64Cp7j.jpg",
-      "title": "culpa odio esse rerum omnis",
-      "count": 8,
-      "type": "video"
-    },
-    {
-      "image": "https://i.imgur.com/qMgLrGy.jpg",
-      "title": "culpa odio esse rerum omnis",
-      "count": 2,
-      "type": "audio"
-    },
-    {
-      "image": "https://i.imgur.com/mh8zzY9.jpg",
-      "name": "culpa odio esse rerum omnis",
-      "count": 4,
-      "type": "image"
-    },
-   {
-      "image": "https://i.imgur.com/mh8zzY9.jpg",
-      "name": "culpa odio esse rerum omnis",
-      "count": 4,
-      "type": "image"
-    }, 
-  {
-      "image": "https://i.imgur.com/mh8zzY9.jpg",
-      "name": "culpa odio esse rerum omnis",
-      "count": 4,
-      "type": "image"
-    },
-  ],
-  "status": 2000,
-  "paginator": {
-    "total": 1,
-    "per_page": 10,
-    "limit": 5
-  }
+	"popular": [{
+			"image": "https://images.unsplash.com/photo-1505282722405-413748d3de7a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ffff11fbee3647471e3b9dadcd7773a4&auto=format&fit=crop&w=701&q=80",
+			"title": "accusamus beatae ad facilis cum similique qui sunt",
+			"count": 2,
+			"type": "audio"
+		},
+		{
+			"image": "https://unsplash.com/photos/9npCsdGQ4qU",
+			"title": "reprehenderit est deserunt velit ipsam",
+			"count": 4,
+			"type": "image"
+		},
+		{
+			"image": "https://i.imgur.com/a64Cp7j.jpg",
+			"title": "officia porro iure quia iusto qui ipsa ut modi",
+			"count": 6,
+			"type": "image"
+		},
+		{
+			"image": "https://i.imgur.com/5hs70Z8.jpg",
+			"title": "culpa odio esse rerum omnis",
+			"count": 8,
+			"type": "video"
+		},
+		{
+			"image": "https://i.imgur.com/5hs70Z8.jpg",
+			"name": "culpa odio esse rerum omnis",
+			"count": 6,
+			"type": "image"
+		},
+		{
+			"image": "https://i.imgur.com/a64Cp7j.jpg",
+			"title": "culpa odio esse rerum omnis",
+			"count": 8,
+			"type": "video"
+		},
+		{
+			"image": "https://i.imgur.com/qMgLrGy.jpg",
+			"title": "culpa odio esse rerum omnis",
+			"count": 2,
+			"type": "audio"
+		},
+		{
+			"image": "https://i.imgur.com/mh8zzY9.jpg",
+			"name": "culpa odio esse rerum omnis",
+			"count": 4,
+			"type": "image"
+		},
+		{
+			"image": "https://i.imgur.com/mh8zzY9.jpg",
+			"name": "culpa odio esse rerum omnis",
+			"count": 4,
+			"type": "image"
+		},
+		{
+			"image": "https://i.imgur.com/mh8zzY9.jpg",
+			"name": "culpa odio esse rerum omnis",
+			"count": 4,
+			"type": "image"
+		}
+	],
+	"status": 2000,
+	"paginator": {
+		"total": 1,
+		"per_page": 10,
+		"limit": 5
+	}
 }
